@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.topContainer{
+    height: 25vh;
+    background-image: linear-gradient(  #8C0056 , #44004B ,#2B0157);
+}
+
+
+
+.imgContainer {
+    position: relative;
+
+}
+
+.imgMain {
+    position: absolute;
+    top: -65px;
+    left: 19px;
+}
+
+ul li i {
+    color: #44004B;
+    cursor: pointer;
+}
+
+ul li{
+   color: #2B0157;
+}
